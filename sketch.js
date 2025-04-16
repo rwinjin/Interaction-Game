@@ -44,7 +44,7 @@ function preload(){
   bgImg1 = loadImage("stage1/Pbackground(2).png");
   bgImg2 = loadImage("stage2/oceanbackground.png");
 
-  titleImg = loadImage('titleScreen.png');
+  titleImg = loadImage('titlescreen.png');
   scoreImg = loadImage('scorecounter.png');
 
 
