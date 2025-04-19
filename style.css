@@ -1,8 +1,16 @@
 html, body {
-    margin: 0;
-    padding: 0;
-  }
-  canvas {
-    display: block;
-  }
-  
+  margin: 0;
+  padding: 0;
+  background-color: cadetblue;
+}
+
+canvas {
+  margin: auto;
+  display: block;
+}
+
+h1, h2, p {
+  text-align: center;
+  margin: 10px;
+  color: white;
+  font-family: "Press Start 2P", system-ui;}
